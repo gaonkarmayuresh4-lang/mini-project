@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833078057461",
+    "project_id": "pca-91aca",
+    "storage_bucket": "pca-91aca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833078057461:android:95defedd05bf50aa0da8bc",
+        "android_client_info": {
+          "package_name": "com.example.pca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833078057461-q1f84845q95410t0fkrpe4bk4b8j5t7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKdibPaChOpmoOtFhLYdaOuXacQxVfZzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833078057461-q1f84845q95410t0fkrpe4bk4b8j5t7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
